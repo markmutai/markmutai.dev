@@ -6,9 +6,9 @@
 .pnp.js
 
 #files
-/gulpfile.js
-/gulp-backup.js
-/tailwind.config.js
+gulpfile.js
+gulp-backup.js
+tailwind.config.js
 
 # testing
 /coverage
