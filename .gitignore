@@ -10,6 +10,7 @@ gulpfile.js
 gulp-backup.js
 tailwind.config.js
 msg.php
+mtiFontTrackingCode.js
 
 # testing
 /coverage
