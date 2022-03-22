@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 400 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1.33333,0,0,1.33333,0,0)">
+        <g transform="matrix(0.75,-0,-0,0.75,0,0)">
+            <use xlink:href="#_Image1" x="0" y="0" width="400px" height="13.333px" transform="matrix(1,0,0,0.952381,0,0)"/>
+        </g>
+    </g>
+    <defs>
+        <image id="_Image1" width="400px" height="14px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAAOCAYAAAABpEpLAAAACXBIWXMAAA7EAAAOxAGVKw4bAAADV0lEQVR4nO1ba3OVMBA99NKXWuuo//8/qmOdqm38ECJcLnntbpINJTNMIfs4h93ANsllMMY8ALiZjlsA19NxNR2pzTDkMVsJDC0+pO61NI8eYinlQwJDC49efOzhGdmTjyjGMAwXOiOAewDvALyfjjvYQjICODlbD4APNEVX2l8qBsdfDk6v2HvKSyq2dn8cbGl/XGxu7lthl4ij9DMe8jck6AW5GGMG4LyQjLDF4xHAp+nvA2xRuYEtIEvgLQKxG8k9L6WrHSN0nWon4XOv8a2BIS3r5dmqxUfLM8KRpWKUzMsQ0F3bBXWXBeQLgK+wheQD5lnIuoCsyVBfUjkJoCY1JznUpLbWLRUPql3PMXfnOWP6GJtp56Viqukea2BQ4jgEzp3ukGrnZiKALRB3sEtXjwA+T8fHqX/E5T6IL2kpfaXt1nJKAinYqQO7djyk4pjrY+/xyNWhYu8pjqnxCMV2T/Gg2qXGcfnyN4jPOpZ2y77oDOQEu2nuNtHdnsg9zgtIqUHOCWwONjepOcnmDIxa8SiJLR3fHF3N2NyXSK1x1fIZrxlfDrZB/L92nw42dIH0paV1W2Iv+3z7Hls4vr4glxHAK4C/0/EHwG8Az7CF42Vysg7KkhR3cIV0Wtlp4ZFrl5MLLTxydXqx08aDYyfBSQuPlnaUGGxdh/qk/QXbCFssngD8gJ2BDLBFxO2BrGcgoXN3HdPlyGPYtXj4cCg8SnCKyWvh9MLDxykmr5WjHN2ex1UtHjm6WsZVCU4h+db1WRthi8d32KWsFwC/YJevbrH9K6wYQA5xH0GOj1q+pf1J+6bKuPmU8NFrzEvGREJPApfio9dnUtrfLsbE+me8T7BFwhWPb5g/KLzC5RKWDziFHEdn73YaOVHtNHKqbbelo4VHr3YaOdW208Dpf3MF5AV22eon7Gb6NebZx9Z3IMkAATnVTkJeQsaVa+RExdbIiSMrKe+NU0x+5FbGrzpOvi/RnzEXkBHzvsdy9pENJqTfwq6WTQ9YVLuDI99OOz+q3cGPZ1eV31bROJMbY06YC4YrGu4vsF1AqDdBbbXxWuC+hXtsgdcCc+94bwmzJm6T+4sViaDt9FXhsliECof21mqA9dyOmOW3I2b57YgZoXFe7jXaPxIxOgWtruO1AAAAAElFTkSuQmCC"/>
+    </defs>
+</svg>

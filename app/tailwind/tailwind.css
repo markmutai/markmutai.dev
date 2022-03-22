@@ -1,0 +1,31 @@
+@tailwind base;
+#toggle:checked~label div.toggle_dot {
+    @apply translate-x-4.5;
+}
+
+@tailwind components;
+.chnk {
+    @apply w-full drop-shadow-3xl border-solid border-4 border-gray-50 border-opacity-30;
+}
+
+.h3_styl {
+    @apply w-full rounded-t-xl text-opacity-90 text-center text-dXlPurp border-solid border-b-2 border-gray-500 border-opacity-5;
+}
+
+.skl_styl {
+    @apply border-b-4 border-dotted border-gray-900 border-opacity-5;
+}
+
+.bdr_dtd {
+    @apply border-t-6 border-dotted border-dXlPurp border-opacity-15;
+}
+
+.btn_styl:hover {
+    @apply bg-lblue-500 text-gray-50;
+}
+
+.sub_styl {
+    @apply border-b-2 border-solid border-gray-100 border-opacity-15;
+}
+
+@tailwind utilities {}
