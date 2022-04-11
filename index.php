@@ -224,7 +224,10 @@ include('top.php');
                                     <li>Web development (NodeJS, ReactJS, TailwindCSS, Sass)</li>
                                     <li>Foundation for future payment portal (M-Pesa)</li>
                                     <li>Secure messaging (Google&reg; ReCaptcha, AWS)</li>
-                                </ul>">
+                                </ul>
+                                <a href='https://linchpin.co.ke/' target='_blank'>
+                                    Visit Website
+                                </a>">
                                     <img class="lightbox-img rounded-lg border-6 border-white hover:shadow-2xl" src="app/img/work/linchpin_v2-sd.webp" alt="Linchpin Kenya v2">
                                 </a>
                                 <div class="caption pt-4 pb-5">
@@ -248,11 +251,39 @@ include('top.php');
                                     <li>Web development (NodeJS, ReactJS, TailwindCSS, Sass)</li>
                                     <li>Foundation for future payment portal (M-Pesa)</li>
                                     <li>Photo-sensitive UI (Affinity Designer, ReactJS, TailwindCSS)</li>
-                                </ul>">
+                                </ul>
+                                <a href='https://linchpin.co.ke/' target='_blank'>
+                                    Visit Website
+                                </a>">
                                     <img class="lightbox-img rounded-lg border-6 border-white hover:shadow-2xl" src="app/img/work/linchpin_v2-dark-sd.webp" alt="Linchpin Kenya v2">
                                 </a>
                                 <div class="caption pt-4 pb-5">
                                     <p>Linchpin v2 (Dark Mode)</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-xl-6 col-lg-12 mm-work">
+                            <div class="thumbnail">
+                                <a class="lightbox" href="app/img/work/transken.webp" data-caption="
+                                <h6>
+                                    Transken Links Ltd. - Design/Development
+                                </h6>
+                                <p>
+                                    Developed website for Transken Links Ltd.
+                                </p>
+                                <br/>
+                                <ul>
+                                    <p>Key Features:</p>
+                                    <li>Web design (Affinity Designer)</li>
+                                    <li>Web development (NodeJS, ReactJS, Typescript, TailwindCSS, Sass)</li>
+                                </ul>
+                                <a href='https://transken.co.ke/' target='_blank'>
+                                    Visit Website
+                                </a>">
+                                    <img class="lightbox-img rounded-lg border-6 border-white hover:shadow-2xl" src="app/img/work/transken-sd.webp" alt="Linchpin Kenya v2">
+                                </a>
+                                <div class="caption pt-4 pb-5">
+                                    <p>Transken Links Ltd</p>
                                 </div>
                             </div>
                         </div>
@@ -513,7 +544,7 @@ include('top.php');
                             </div>
                         </div>
                         <div class="w-full z-40 bdr_dtd mx-8 dark:border-lblue-500 dark:border-opacity-60 phone-m:border-t-4 md:border-t-6 phone-m:mt-0 xl:mt-1 phone-m:pt-4 lg:pt-8 phone-m:pb-8 md:pb-10 lg:pb-12">
-                            <a href="app/dl/Mark Rutere Portfolio.pdf" target="_blank" class="duration-300 btn snd-btn snd-btn-norm flex items-center justify-center text-center mx-auto bg-indigo-800 hover:bg-lblue-500 phone-m:w-full sm:w-8/12 phone-m:h-12 phone-l:h-14 xl:h-16 phone-m:text-sm md:text-sm 2xl:text-base phone-m:tracking-normal lg:tracking-smidge">
+                            <a href="app/dl/Portfolio.pdf" target="_blank" class="duration-300 btn snd-btn snd-btn-norm flex items-center justify-center text-center mx-auto bg-indigo-800 hover:bg-lblue-500 phone-m:w-full sm:w-8/12 phone-m:h-12 phone-l:h-14 xl:h-16 phone-m:text-sm md:text-sm 2xl:text-base phone-m:tracking-normal lg:tracking-smidge">
                                 View More
                             </a>
                         </div>

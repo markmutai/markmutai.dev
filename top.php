@@ -151,7 +151,7 @@
                                     </ul>
                                 </li>
                                 <li id="contact" class="cursor-pointer flex items-center dropdown float-left duration-300 focus:outline-none focus:bg-lblue-500 focus:text-dPurp btn_styl dark:hover:bg-lblue-500 mx-1.5 rounded-sm xl:text-sm 2xl:text-base font-medium text-bold">
-                                    <a href="app/dl/Mark Rutere Portfolio.pdf" class="flex items-center xl:py-2 xl:px-8 2xl:py-3.5 2xl:px-10 hover:text-gray-50" target="_blank">
+                                    <a href="app/dl/Portfolio.pdf" class="flex items-center xl:py-2 xl:px-8 2xl:py-3.5 2xl:px-10 hover:text-gray-50" target="_blank">
                                         Portfolio
                                         <!-- <i class="absolute opacity-50 xl:right-2.5 2xl:right-3 mt-0.5 xl:text-2xs 2xl:text-xs fa-solid fa-up-right-from-square"></i> -->
                                     </a>
@@ -348,7 +348,7 @@
                         </li>
                     </ul>
                     <li id="contact_sm" class="py-4 border-t border-gray-50 border-opacity-20">
-                        <a href="app/dl/Mark Rutere Portfolio.pdf" target="_blank">Portfolio</a>
+                        <a href="app/dl/Portfolio.pdf" target="_blank">Portfolio</a>
                     </li>
                     <li id="contact_sm" class="py-4 border-t border-gray-50 border-opacity-20">
                         <a href="#msg">Contact</a>
